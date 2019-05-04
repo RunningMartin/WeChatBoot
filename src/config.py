@@ -1,17 +1,17 @@
 # 登录方式 SCAN MAIL
 SCAN = "SCAN"
 MAIL = "MAIL"
-LOGIN_TYPE = SCAN
+LOGIN_TYPE = MAIL
 
 # QR
-QR_PATH = "/home/martin/MyProject/WeChatBoot/src/QR.png"
+QR_PATH = "QR存放位置"
 
 # 邮件信息设置
-EMAIL_HOST = "smtp.qq.com"
-EMAIL_PORT = "465"
-EMAIL_USER = "2194278737@qq.com"
-EMAIL_PASSWORD = "pzbdqmxwfrclecfg"
-ACCEPT_EMAIL = "838379742@qq.com"
+EMAIL_HOST = ""
+EMAIL_PORT = ""
+EMAIL_USER = ""
+EMAIL_PASSWORD = ""
+ACCEPT_EMAIL = ""
 
 # 群监听
 IS_LISTEN_GROUP = True
